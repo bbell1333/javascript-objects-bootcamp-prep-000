@@ -1,4 +1,4 @@
-# JavaScript Objects
+tip# JavaScript Objects
 
 ## Objectives
 + Explain what an object is in JavaScript is
